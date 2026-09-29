@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-essential-tranining.iml" filepath="$PROJECT_DIR$/.idea/java-essential-tranining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syntax_and_structures/syntax_and_structures.iml" filepath="$PROJECT_DIR$/syntax_and_structures/syntax_and_structures.iml" />
+    </modules>
+  </component>
+</project>
